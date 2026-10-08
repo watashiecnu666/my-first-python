@@ -1,0 +1,11 @@
+#a = float(input())
+#b = float(input())
+#c = float(input())
+#d =(a+b+c)/3
+#print('%.2f' % d)
+a=int(input())
+b=int(input())
+print(a,'+',b,'=',a+b)
+print(a,'-',b,'=',a-b)
+print(a,'*',b,'=',a*b)
+print(a,'/',b,'=',a/b)
